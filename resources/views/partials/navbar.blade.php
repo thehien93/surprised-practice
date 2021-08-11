@@ -33,6 +33,15 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="{{route('menu.index')}}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                メーニュ
+              </p>
+            </a>
+          </li>
+
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
